@@ -1,1 +1,1 @@
-##Fiz uma calculadora com base na medida dos conhecimentos que tenho no momento.
+##desenvolvi uma calculadora com base nos conhecimentos que tenho no momento.
